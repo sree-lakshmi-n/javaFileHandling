@@ -1,0 +1,6 @@
+In OOP, classes are blueprints or templates for objects.
+We use them to describe types of entities.
+
+On the other hand, objects are living entities, created from classes.
+They contain certain states within their fields and present certain behaviors with their methods.
+
