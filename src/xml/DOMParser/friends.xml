@@ -2,14 +2,18 @@
 <friendsList>
     <friend>
         <name>Alex</name>
+        <nickname>Al</nickname>
     </friend>
     <friend>
         <name>Mary</name>
+        <nickname>Mario</nickname>
     </friend>
     <friend>
         <name>Rachel</name>
+        <nickname>Rach</nickname>
     </friend>
     <bestFriend>
         <name>Anna</name>
+        <nickname>Ann</nickname>
     </bestFriend>
 </friendsList>
